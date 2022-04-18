@@ -1,0 +1,1 @@
+ List View Filter e uma aplicação que trabalha junto com o site da randomuser.me que tem como objetivo de criar um serviço gratuito e fácil de usar para gerar dados aleatórios do usuário para teste de aplicativos.
